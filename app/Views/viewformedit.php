@@ -14,7 +14,7 @@
         </button>
     </p>
     <p>
-        <?= form_open('mahasiswa/simpandata') ?>
+        <?= form_open('mahasiswa/updatedata') ?>
         <table>
             <tr>
                 <td>NIM :</td>
